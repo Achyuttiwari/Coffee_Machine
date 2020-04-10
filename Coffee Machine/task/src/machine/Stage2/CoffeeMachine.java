@@ -20,4 +20,6 @@ public class CoffeeMachine {
         System.out.println((cups * MILK) + " ml of milk");
         System.out.println((cups * BEANS) + " g of coffee beans");
     }
+
+
 }
