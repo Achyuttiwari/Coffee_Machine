@@ -1,10 +1,10 @@
-# Hyperskill
+# Hyperskill Project
 
 Contains projects produced on Hyperskill - https://hyperskill.org/profile/1150016
 
 ## Coffee Machine
 
-Write the software for a simulation of a real-world coffee machine. https://hyperskill.org/projects/33
+#### Write the software for a simulation of a real-world coffee machine. https://hyperskill.org/projects/33
  
 #####  Stage #1 Hello, coffee! Write a program that puts basic information on the screen: give the machine a chance to tell the customers what it’s doing!
  
