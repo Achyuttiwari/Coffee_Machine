@@ -1,8 +1,10 @@
-
 package machine.Stage4;
 
+import java.util.Scanner;
+
 public class coffeeMachine {
-    static int water = 1200;
+
+    static int water = 400;
     static int milk = 540;
     static int beans = 120;
     static int cups = 9;
@@ -10,8 +12,7 @@ public class coffeeMachine {
 
     static Boolean exit = false;
 
-    enum Status {
-        CHOOSING, BUYING, FILLING, TAKING, REMAINING, EXITING
-    }
+    static Scanner scanner = new Scanner(System.in);
+
 
 }
