@@ -17,4 +17,8 @@ Write the software for a simulation of a real-world coffee machine. https://hype
 ##### Stage #5 On a coffee loop Program the machine to display on the screen the amount of supplies left. Set the main loop: now the menu keeps updating until you press exit.
  
  ##### Stage #6 Brush your code Time for some final touch-ups: structure the code so that it runs smoothly.
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> origin/master
