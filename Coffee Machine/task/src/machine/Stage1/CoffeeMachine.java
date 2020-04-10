@@ -11,4 +11,6 @@ public class CoffeeMachine {
         System.out.println("Pouring some milk into the cup");
         System.out.println("Coffee is ready!");
     }
+
+
 }
