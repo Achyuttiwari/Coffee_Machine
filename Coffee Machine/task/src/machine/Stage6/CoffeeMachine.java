@@ -1,8 +1,8 @@
-package machine;
+package machine.Stage6;
 
 import java.util.Scanner;
 
-public class CoffeeMachine {
+class CoffeeMachine {
 
     static int water = 400;
     static int milk = 540;
