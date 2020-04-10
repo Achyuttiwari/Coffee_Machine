@@ -20,5 +20,8 @@ public class coffeeMachine {
         int beanLevel = scanner.nextInt();
         System.out.print("Write how many cups of coffee you will need: ");
         int cupsNeed = scanner.nextInt();
+        int cupsWater = 0;
+        int cupsMilk = 0;
+        int cupsBeans = 0;
     }
 }
