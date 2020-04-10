@@ -50,7 +50,6 @@ class CoffeeMachine {
             System.out.println("Yes, I can make that amount of coffee");
         }
 
-
     }
 
 }
