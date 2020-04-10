@@ -11,5 +11,8 @@ public class coffeeMachine {
         int WATER = 200;
         int MILK = 50;
         int BEANS = 15;
+
+        System.out.print("Write how many ml of water the coffee machine has: ");
+        int waterLevel = scanner.nextInt();
     }
 }
