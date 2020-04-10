@@ -1,17 +1,6 @@
 type: edu
 custom_name: stage1
 files:
-- name: src/machine/CoffeeMachine.java
-  visible: true
-  text: |
-    package machine;
-
-    public class CoffeeMachine {
-        public static void main(String[] args) {
-            System.out.println("Hello World!");
-        }
-    }
-  learner_created: false
 - name: test/CoffeeMachineTest.java
   visible: false
   text: |
@@ -53,6 +42,32 @@ files:
         }
     }
   learner_created: false
+- name: src/machine/Stage1/CoffeeMachine.java
+  visible: true
+  learner_created: true
+- name: src/machine/Stage2/CoffeeMachine.java
+  visible: true
+  learner_created: true
+- name: src/machine/Stage6/CoffeeMachine.java
+  visible: true
+  text: |
+    package machine;
+
+    public class CoffeeMachine {
+        public static void main(String[] args) {
+            System.out.println("Hello World!");
+        }
+    }
+  learner_created: false
+- name: src/machine/Stage3/coffeeMachine.java
+  visible: true
+  learner_created: true
+- name: src/machine/Stage4/coffeeMachine.java
+  visible: true
+  learner_created: true
+- name: src/machine/Stage5/coffeeMachine.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/33/stages/175/implement
 status: Solved
 record: 1
