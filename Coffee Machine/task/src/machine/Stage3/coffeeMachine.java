@@ -14,5 +14,7 @@ public class coffeeMachine {
 
         System.out.print("Write how many ml of water the coffee machine has: ");
         int waterLevel = scanner.nextInt();
+        System.out.print("Write how many ml of milk the coffee machine has: ");
+        int milkLevel = scanner.nextInt();
     }
 }
