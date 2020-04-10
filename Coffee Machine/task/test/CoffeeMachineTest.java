@@ -1,4 +1,4 @@
-import machine.Stage3.CoffeeMachine;
+import machine.Stage6.CoffeeMachine;
 import org.hyperskill.hstest.v6.stage.BaseStageTest;
 import org.hyperskill.hstest.v6.testcase.CheckResult;
 import org.hyperskill.hstest.v6.testcase.TestCase;
